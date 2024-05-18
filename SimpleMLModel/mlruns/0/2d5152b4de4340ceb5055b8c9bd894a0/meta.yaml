@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/2d5152b4de4340ceb5055b8c9bd894a0/artifacts
+end_time: 1716024987629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d5152b4de4340ceb5055b8c9bd894a0
+run_name: sassy-snipe-784
+run_uuid: 2d5152b4de4340ceb5055b8c9bd894a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716024987480
+status: 3
+tags: []
+user_id: Rajmohan

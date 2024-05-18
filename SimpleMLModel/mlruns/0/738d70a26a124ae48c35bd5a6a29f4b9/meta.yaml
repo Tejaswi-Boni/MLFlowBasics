@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/738d70a26a124ae48c35bd5a6a29f4b9/artifacts
+end_time: 1716025041754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 738d70a26a124ae48c35bd5a6a29f4b9
+run_name: flawless-pug-48
+run_uuid: 738d70a26a124ae48c35bd5a6a29f4b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716025041590
+status: 3
+tags: []
+user_id: Rajmohan

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/da79657e3155469c8e0b96ca415e3ffd/artifacts
+end_time: 1716024994641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da79657e3155469c8e0b96ca415e3ffd
+run_name: enthused-shad-515
+run_uuid: da79657e3155469c8e0b96ca415e3ffd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716024994462
+status: 3
+tags: []
+user_id: Rajmohan

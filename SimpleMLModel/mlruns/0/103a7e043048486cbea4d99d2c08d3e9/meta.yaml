@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/103a7e043048486cbea4d99d2c08d3e9/artifacts
+end_time: 1716025004690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 103a7e043048486cbea4d99d2c08d3e9
+run_name: thundering-bug-111
+run_uuid: 103a7e043048486cbea4d99d2c08d3e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716025004571
+status: 3
+tags: []
+user_id: Rajmohan

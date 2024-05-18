@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/7908d7317ab5485fa2cfffa44cc9f84f/artifacts
+end_time: 1716025024996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7908d7317ab5485fa2cfffa44cc9f84f
+run_name: selective-kit-980
+run_uuid: 7908d7317ab5485fa2cfffa44cc9f84f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716025024871
+status: 3
+tags: []
+user_id: Rajmohan

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/b36ae6ef7a2d4deca74d38f01915fef4/artifacts
+end_time: 1716025017796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b36ae6ef7a2d4deca74d38f01915fef4
+run_name: bouncy-mule-360
+run_uuid: b36ae6ef7a2d4deca74d38f01915fef4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716025017631
+status: 3
+tags: []
+user_id: Rajmohan

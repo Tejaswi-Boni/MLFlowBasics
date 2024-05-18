@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/7659efd0c3994ccb81a9e89ed98b0139/artifacts
+end_time: 1716024980181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7659efd0c3994ccb81a9e89ed98b0139
+run_name: brawny-shrew-359
+run_uuid: 7659efd0c3994ccb81a9e89ed98b0139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716024980010
+status: 3
+tags: []
+user_id: Rajmohan

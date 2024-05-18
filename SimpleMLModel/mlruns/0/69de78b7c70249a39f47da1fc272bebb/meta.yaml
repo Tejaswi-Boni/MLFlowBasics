@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/69de78b7c70249a39f47da1fc272bebb/artifacts
+end_time: 1716024971893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69de78b7c70249a39f47da1fc272bebb
+run_name: unleashed-croc-613
+run_uuid: 69de78b7c70249a39f47da1fc272bebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716024971782
+status: 3
+tags: []
+user_id: Rajmohan

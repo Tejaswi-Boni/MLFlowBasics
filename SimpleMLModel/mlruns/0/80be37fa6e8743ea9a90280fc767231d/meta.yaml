@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/80be37fa6e8743ea9a90280fc767231d/artifacts
+end_time: 1716024967195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80be37fa6e8743ea9a90280fc767231d
+run_name: spiffy-seal-88
+run_uuid: 80be37fa6e8743ea9a90280fc767231d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716024967082
+status: 3
+tags: []
+user_id: Rajmohan

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/ed0bbb6483a3400f8ac5780823b54cea/artifacts
+end_time: 1716025011586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed0bbb6483a3400f8ac5780823b54cea
+run_name: amusing-swan-510
+run_uuid: ed0bbb6483a3400f8ac5780823b54cea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716025011461
+status: 3
+tags: []
+user_id: Rajmohan

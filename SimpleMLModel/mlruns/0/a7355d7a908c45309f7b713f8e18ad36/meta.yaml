@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/a7355d7a908c45309f7b713f8e18ad36/artifacts
+end_time: 1716024990759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7355d7a908c45309f7b713f8e18ad36
+run_name: calm-worm-976
+run_uuid: a7355d7a908c45309f7b713f8e18ad36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716024990582
+status: 3
+tags: []
+user_id: Rajmohan

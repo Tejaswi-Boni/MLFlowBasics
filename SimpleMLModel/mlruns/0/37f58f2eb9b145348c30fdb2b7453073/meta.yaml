@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/37f58f2eb9b145348c30fdb2b7453073/artifacts
+end_time: 1716025028521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37f58f2eb9b145348c30fdb2b7453073
+run_name: melodic-grouse-726
+run_uuid: 37f58f2eb9b145348c30fdb2b7453073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716025028431
+status: 3
+tags: []
+user_id: Rajmohan

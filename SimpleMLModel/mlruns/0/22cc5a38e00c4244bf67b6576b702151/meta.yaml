@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/22cc5a38e00c4244bf67b6576b702151/artifacts
+end_time: 1716024969369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22cc5a38e00c4244bf67b6576b702151
+run_name: rogue-horse-675
+run_uuid: 22cc5a38e00c4244bf67b6576b702151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716024969274
+status: 3
+tags: []
+user_id: Rajmohan

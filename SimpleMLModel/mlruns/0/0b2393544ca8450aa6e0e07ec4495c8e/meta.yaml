@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/0b2393544ca8450aa6e0e07ec4495c8e/artifacts
+end_time: 1716025034689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b2393544ca8450aa6e0e07ec4495c8e
+run_name: dazzling-donkey-815
+run_uuid: 0b2393544ca8450aa6e0e07ec4495c8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716025034601
+status: 3
+tags: []
+user_id: Rajmohan

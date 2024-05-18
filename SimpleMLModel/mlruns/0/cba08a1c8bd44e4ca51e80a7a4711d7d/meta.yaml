@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/cba08a1c8bd44e4ca51e80a7a4711d7d/artifacts
+end_time: 1716025007840
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cba08a1c8bd44e4ca51e80a7a4711d7d
+run_name: capable-wolf-906
+run_uuid: cba08a1c8bd44e4ca51e80a7a4711d7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716025007680
+status: 3
+tags: []
+user_id: Rajmohan

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/615b199382e845d99aaf4087aec2ec77/artifacts
+end_time: 1716024983801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 615b199382e845d99aaf4087aec2ec77
+run_name: fun-ant-732
+run_uuid: 615b199382e845d99aaf4087aec2ec77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716024983631
+status: 3
+tags: []
+user_id: Rajmohan

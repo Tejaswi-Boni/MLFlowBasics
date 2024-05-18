@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/308fcae8c2874ecbbcb5d1625ba68e52/artifacts
+end_time: 1716024998361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 308fcae8c2874ecbbcb5d1625ba68e52
+run_name: upbeat-mule-510
+run_uuid: 308fcae8c2874ecbbcb5d1625ba68e52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716024998266
+status: 3
+tags: []
+user_id: Rajmohan

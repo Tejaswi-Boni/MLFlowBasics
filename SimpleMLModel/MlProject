@@ -1,0 +1,10 @@
+name : MlFlowBasics
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      alpha: {type: float,default: 0.5}
+      l1ratio: {type: float,default: 0.5}
+    command: "Python SimpleMlModel.py -a {alpha} -l1 {l1ratio}"

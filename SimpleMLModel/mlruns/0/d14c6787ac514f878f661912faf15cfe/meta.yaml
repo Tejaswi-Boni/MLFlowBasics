@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/d14c6787ac514f878f661912faf15cfe/artifacts
+end_time: 1716027691292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d14c6787ac514f878f661912faf15cfe
+run_name: big-seal-566
+run_uuid: d14c6787ac514f878f661912faf15cfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716027584441
+status: 3
+tags: []
+user_id: Rajmohan

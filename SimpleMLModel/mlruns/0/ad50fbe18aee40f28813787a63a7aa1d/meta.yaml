@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/ad50fbe18aee40f28813787a63a7aa1d/artifacts
+end_time: 1716027892284
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad50fbe18aee40f28813787a63a7aa1d
+run_name: nervous-squirrel-364
+run_uuid: ad50fbe18aee40f28813787a63a7aa1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716027885680
+status: 3
+tags: []
+user_id: Rajmohan

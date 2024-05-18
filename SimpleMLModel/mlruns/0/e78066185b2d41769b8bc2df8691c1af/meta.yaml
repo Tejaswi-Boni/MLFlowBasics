@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/e78066185b2d41769b8bc2df8691c1af/artifacts
+end_time: 1716022262221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e78066185b2d41769b8bc2df8691c1af
+run_name: classy-ray-811
+run_uuid: e78066185b2d41769b8bc2df8691c1af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716022262057
+status: 3
+tags: []
+user_id: Rajmohan

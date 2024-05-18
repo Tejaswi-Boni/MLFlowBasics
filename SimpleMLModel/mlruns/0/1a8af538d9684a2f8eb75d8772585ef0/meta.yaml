@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/1a8af538d9684a2f8eb75d8772585ef0/artifacts
+end_time: 1716022282758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a8af538d9684a2f8eb75d8772585ef0
+run_name: fun-doe-591
+run_uuid: 1a8af538d9684a2f8eb75d8772585ef0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716022282685
+status: 3
+tags: []
+user_id: Rajmohan

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/39d9e13d212d4a7bb78b9d4cb88b17a7/artifacts
+end_time: 1716022333512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39d9e13d212d4a7bb78b9d4cb88b17a7
+run_name: nosy-fawn-258
+run_uuid: 39d9e13d212d4a7bb78b9d4cb88b17a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716022333392
+status: 3
+tags: []
+user_id: Rajmohan

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/mlruns/0/db9a4806b54043b78b6af975118e286b/artifacts
+end_time: 1716011210897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db9a4806b54043b78b6af975118e286b
+run_name: silent-cod-945
+run_uuid: db9a4806b54043b78b6af975118e286b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716011210815
+status: 4
+tags: []
+user_id: Rajmohan

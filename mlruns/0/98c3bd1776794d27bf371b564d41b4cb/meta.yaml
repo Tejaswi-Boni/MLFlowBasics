@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/mlruns/0/98c3bd1776794d27bf371b564d41b4cb/artifacts
+end_time: 1716011358798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98c3bd1776794d27bf371b564d41b4cb
+run_name: dashing-squirrel-677
+run_uuid: 98c3bd1776794d27bf371b564d41b4cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716011358719
+status: 3
+tags: []
+user_id: Rajmohan

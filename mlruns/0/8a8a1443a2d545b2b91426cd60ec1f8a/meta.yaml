@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/mlruns/0/8a8a1443a2d545b2b91426cd60ec1f8a/artifacts
+end_time: 1716011254010
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a8a1443a2d545b2b91426cd60ec1f8a
+run_name: whimsical-koi-358
+run_uuid: 8a8a1443a2d545b2b91426cd60ec1f8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716011253979
+status: 4
+tags: []
+user_id: Rajmohan

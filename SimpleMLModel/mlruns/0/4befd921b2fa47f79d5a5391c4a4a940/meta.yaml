@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/4befd921b2fa47f79d5a5391c4a4a940/artifacts
+end_time: 1716210468010
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4befd921b2fa47f79d5a5391c4a4a940
+run_name: efficient-stork-591
+run_uuid: 4befd921b2fa47f79d5a5391c4a4a940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716210467946
+status: 3
+tags: []
+user_id: Rajmohan

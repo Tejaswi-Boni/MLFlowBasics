@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/3abc51a93c50477f8ed05fec49f06851/artifacts
+end_time: 1716210480120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3abc51a93c50477f8ed05fec49f06851
+run_name: adaptable-bear-729
+run_uuid: 3abc51a93c50477f8ed05fec49f06851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716210480053
+status: 3
+tags: []
+user_id: Rajmohan

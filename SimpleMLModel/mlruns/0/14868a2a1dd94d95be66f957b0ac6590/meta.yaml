@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/14868a2a1dd94d95be66f957b0ac6590/artifacts
+end_time: 1716210456176
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14868a2a1dd94d95be66f957b0ac6590
+run_name: calm-conch-342
+run_uuid: 14868a2a1dd94d95be66f957b0ac6590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716210456125
+status: 3
+tags: []
+user_id: Rajmohan

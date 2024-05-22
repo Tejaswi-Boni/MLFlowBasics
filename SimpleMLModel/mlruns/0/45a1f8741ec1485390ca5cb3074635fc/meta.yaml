@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/45a1f8741ec1485390ca5cb3074635fc/artifacts
+end_time: 1716210453837
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45a1f8741ec1485390ca5cb3074635fc
+run_name: monumental-croc-795
+run_uuid: 45a1f8741ec1485390ca5cb3074635fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716210453767
+status: 3
+tags: []
+user_id: Rajmohan

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/531714230a454f4ca2f1e59decf9fc4d/artifacts
+end_time: 1716210487309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 531714230a454f4ca2f1e59decf9fc4d
+run_name: merciful-fox-715
+run_uuid: 531714230a454f4ca2f1e59decf9fc4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716210487245
+status: 3
+tags: []
+user_id: Rajmohan

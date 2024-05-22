@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/7c999cd72dc34327a026dc91448505b4/artifacts
+end_time: 1716210484988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c999cd72dc34327a026dc91448505b4
+run_name: funny-bee-681
+run_uuid: 7c999cd72dc34327a026dc91448505b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716210484921
+status: 3
+tags: []
+user_id: Rajmohan

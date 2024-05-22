@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/3f5faca96a2f4d0d95db540ababe1e18/artifacts
+end_time: 1716210491802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f5faca96a2f4d0d95db540ababe1e18
+run_name: hilarious-slug-455
+run_uuid: 3f5faca96a2f4d0d95db540ababe1e18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716210491735
+status: 3
+tags: []
+user_id: Rajmohan

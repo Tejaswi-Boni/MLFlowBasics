@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/e1b298c424f2402194364eb8fed11ccb/artifacts
+end_time: 1716210451551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1b298c424f2402194364eb8fed11ccb
+run_name: bright-bat-854
+run_uuid: e1b298c424f2402194364eb8fed11ccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716210451495
+status: 3
+tags: []
+user_id: Rajmohan

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/ceb863e74ec048219dc642f4254b06fa/artifacts
+end_time: 1716210482494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ceb863e74ec048219dc642f4254b06fa
+run_name: masked-lark-428
+run_uuid: ceb863e74ec048219dc642f4254b06fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716210482416
+status: 3
+tags: []
+user_id: Rajmohan

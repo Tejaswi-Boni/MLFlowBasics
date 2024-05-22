@@ -11,10 +11,10 @@ from sklearn.linear_model import ElasticNet
 from urllib.parse import urlparse
 
 def get_data():
-    URL = "winequality-red.csv"
+    data = "winequality-red.csv"
 
     try:
-        df=pd.read_csv(URL,sep=';')
+        df=pd.read_csv(data,sep=';')
         return df
     except Exception as e:
         raise e

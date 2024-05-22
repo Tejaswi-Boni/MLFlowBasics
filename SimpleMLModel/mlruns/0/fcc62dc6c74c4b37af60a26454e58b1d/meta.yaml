@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/fcc62dc6c74c4b37af60a26454e58b1d/artifacts
+end_time: 1716210446724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcc62dc6c74c4b37af60a26454e58b1d
+run_name: aged-snake-456
+run_uuid: fcc62dc6c74c4b37af60a26454e58b1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716210446680
+status: 3
+tags: []
+user_id: Rajmohan

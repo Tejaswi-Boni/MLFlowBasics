@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/31ff84ba849e42c5b90f49843f683704/artifacts
+end_time: 1716210444327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31ff84ba849e42c5b90f49843f683704
+run_name: fearless-fly-249
+run_uuid: 31ff84ba849e42c5b90f49843f683704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716210444264
+status: 3
+tags: []
+user_id: Rajmohan

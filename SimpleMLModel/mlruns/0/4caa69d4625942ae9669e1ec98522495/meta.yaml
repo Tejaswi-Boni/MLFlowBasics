@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/4caa69d4625942ae9669e1ec98522495/artifacts
+end_time: 1716210494228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4caa69d4625942ae9669e1ec98522495
+run_name: glamorous-skunk-15
+run_uuid: 4caa69d4625942ae9669e1ec98522495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716210494160
+status: 3
+tags: []
+user_id: Rajmohan

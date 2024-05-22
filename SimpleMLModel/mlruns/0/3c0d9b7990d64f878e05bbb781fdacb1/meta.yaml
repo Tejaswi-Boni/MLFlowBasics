@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/3c0d9b7990d64f878e05bbb781fdacb1/artifacts
+end_time: 1716210460929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c0d9b7990d64f878e05bbb781fdacb1
+run_name: handsome-cod-837
+run_uuid: 3c0d9b7990d64f878e05bbb781fdacb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716210460870
+status: 3
+tags: []
+user_id: Rajmohan

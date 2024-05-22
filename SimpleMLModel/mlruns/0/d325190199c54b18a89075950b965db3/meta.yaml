@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/d325190199c54b18a89075950b965db3/artifacts
+end_time: 1716210496612
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d325190199c54b18a89075950b965db3
+run_name: burly-eel-31
+run_uuid: d325190199c54b18a89075950b965db3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716210496559
+status: 3
+tags: []
+user_id: Rajmohan

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Tejaswi/MLFlowSampleCode/SimpleMLModel/mlruns/0/520f8bdff61a46b3bcdf0db09a492d39/artifacts
+end_time: 1716210449257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 520f8bdff61a46b3bcdf0db09a492d39
+run_name: thundering-midge-945
+run_uuid: 520f8bdff61a46b3bcdf0db09a492d39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716210449190
+status: 3
+tags: []
+user_id: Rajmohan
